@@ -1,0 +1,14 @@
+<resources>
+
+    <!--Reloop Server Links Production-->
+    <string name="production_zmnload" translatable="false">https://sandbox.devdtech.com/mvc/allodoc/dev/api/</string>
+    <string name="production_zmnload_image" translatable="false">https://sandbox.devdtech.com/</string>
+    <string name="production_zmnload_deepLink" translatable="false">https://sandbox.devdtech.com/mvc/allodoc</string>
+
+    <!--Reloop Server Links Development-->
+
+    <string name="development_zmnload" translatable="false">https://sandbox.devdtech.com/mvc/allodoc/dev/api/</string>
+    <string name="development_zmnload_image" translatable="false">https://sandbox.devdtech.com/</string>
+    <string name="development_zmnload_deeplink" translatable="false">https://sandbox.devdtech.com/mvc/allodoc/</string>
+
+</resources>
